@@ -1,0 +1,1 @@
+je recopie tout du fichier myfile.txt :3
